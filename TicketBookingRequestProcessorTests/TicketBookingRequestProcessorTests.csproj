@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TicketBookingRequestProcessor\TicketBookingRequestProcessor.csproj" />
+    <ProjectReference Include="..\TicketBookingCore\TicketBookingCore.csproj" />
   </ItemGroup>
 
 </Project>

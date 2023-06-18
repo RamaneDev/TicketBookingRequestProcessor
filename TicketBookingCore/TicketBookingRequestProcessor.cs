@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TicketBookingRequestProcessors
+namespace TicketBookingCore
 {
     public class TicketBookingRequestProcessor
     {
